@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Placa de Vídeo Zotac NVIDIA GeForce RTX 3060  Ti Twin Edge LHR, 8GB, 14.0 Gbps, GDDR6, DLSS, Ray Tracing - ZT-A30610E-10MLHR",
+      "price": 4299.9,
+      "image": "https://images.kabum.com.br/produtos/fotos/166104/placa-de-video-zotac-nvidia-geforce-rtx-3060ti-twin-edge-lhr-8gb-14-0-gbps-gddr6-dlss-ray-tracing-zt-a30610e-10mlhr_1623326525_g.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Headset Gamer HyperX Cloud Stinger, Drivers 50mm, Múltiplas Plataformas, P2 e P3 - HX-HSCS-BK/NA",
+      "price": 199.9,
+      "image": "https://images.kabum.com.br/produtos/fotos/81132/81132_index_g.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Processador Intel Core i3-10100F, Cache 6MB, 4.30 GHz, LGA 1200 - BX8070110100F",
+      "price": 659.9,
+      "image": "https://images.kabum.com.br/produtos/fotos/129960/processador-intel-core-i3-10100f-cache-6mb-4-30-ghz-lga-1200-i3-10100f_1603394030_g.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Smartphone Motorola Moto E7, 64GB, RAM 4GB, Octa-Core, Câmera 48MP, 4000mAh, Cinza Metálico - PALV0031BR",
+      "price": 1214.48,
+      "image": "https://images.kabum.com.br/produtos/fotos/154259/smartphone-motorola-moto-e7-64gb-ram-4gb-octa-core-camera-48mp-4000mah-cinza-metalico-palv0031br_1616608846_g.jpg"
+    }
+  ]
+}

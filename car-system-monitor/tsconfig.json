@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "useDefineForClassFields": true,
+    "target": "es2017",
+    "module": "commonjs",
+    "allowJs": false,
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "esModuleInterop": true,
+    "declaration": true,
+    "declarationMap": true
+  },
+  "include": [
+    "src/**/*.ts",
+  ],
+}
